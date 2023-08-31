@@ -39,3 +39,4 @@ Provide contact details for any project-related inquiries.
 
 ## License
 This project is licensed under the MIT License.
+
